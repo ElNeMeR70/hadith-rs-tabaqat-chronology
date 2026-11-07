@@ -1,0 +1,10 @@
+[package]
+name = "hadith-rs-tabaqat-chronology"
+version = "1.0.0"
+edition = "2021"
+description = "Narrator Chronological Overlap & Liqa' Feasibility Validator"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "hadith_rs_tabaqat_chronology"
+path = "main.rs"
